@@ -1,0 +1,7 @@
+PyWavelets
+opencv-python
+seaborn
+numpy
+pandas
+os
+RandomForestClassifier
